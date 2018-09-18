@@ -32,7 +32,7 @@ public class JHoangLib {
         int sharedNum = 0;
         for(int i = 0; i > 26; i ++)
         {
-
+            a
         }
     }
 }
