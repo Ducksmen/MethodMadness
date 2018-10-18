@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/dcordova7146/PeopleLab.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Ducksmen/ChatBotStarter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Jack\IdeaProjects" />
