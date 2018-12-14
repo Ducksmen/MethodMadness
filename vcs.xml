@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/Ducksmen/ElevensActivity.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Ducksmen/CSVGraphLab.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Jack\IdeaProjects" />
